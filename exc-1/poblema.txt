@@ -1,0 +1,11 @@
+§ 01) ESCREVA UM PROGRAMA QUE CRIE UM MENU COM AS SEGUINTES OPÇOES:
+§ Dados 3 inteiros a, b, c, calcular:
+
+a) Quantas raízes tem a equação do 2 grau formada por a, b e c
+Use uma estrutura de seleção para escolher a impressão: se 1 raiz, 2 raízes ou sem.
+
+b) Calcular a média ponderada dos 3 valores
+O usuário deverá digitar os pesos
+
+c) Ordenar os 3 números (forma crescente)
+d) Ordenar os 3 números (forma decrescente)

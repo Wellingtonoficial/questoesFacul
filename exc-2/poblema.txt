@@ -1,0 +1,27 @@
+1. Tendo como entrada a altura e o sexo (codificado da seguinte forma:
+1:feminino 2:masculino) de uma pessoa, construa um programa que calcule
+e imprima seu peso ideal, utilizando as seguintes
+Fórmulas:
+- para homens: (72.7 * Altura) – 58
+- para mulheres: (62.1 * Altura) – 44.7
+2. Escreva um programa para ler o número de lados de um polı́gono regular e
+a medida do lado (em cm). Calcular e imprimir o seguinte:
+o − Se o número de lados for igual a 3 escrever TRIAQNGULO e o valor
+da área
+o − Se o número de lados for igual a 4 escrever QUADRADO e o valor
+da sua área.
+o − Se o número de lados for igual a 5 escrever PENTAZGONO.
+3. Acrescente as seguintes mensagens à solução do exercı́cio anterior
+conforme o caso.
+− Caso o número de lados seja inferior a 3 escrever NA_O EZUM
+POLIZGONO.
+− Caso o número de lados seja superior a 5 escrever POLIZGONO NA_O
+IDENTIFICADO.
+4. Escreva um programa para ler 3 valores inteiros e escrever o maior deles.
+Considere que o usuário não informará valores iguais.
+
+5. Escreva um programa que leia as medidas dos lados de um triângulo e
+escreva se ele éEquilátero, Isósceles ou Escaleno. Sendo que:
+• − Triângulo Equilátero: possui os 3 lados iguais.
+• − Triângulo Isóscele: possui 2 lados iguais.
+• − Triângulo Escaleno: possui 3 lados diferentes.
