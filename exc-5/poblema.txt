@@ -1,0 +1,13 @@
+01) Escreva um programa EM C++ para determinar o número de dígitos de um
+número inteiro positivo informado, ex: 415 possui 3 digitos
+02) Escreva um programa EM C++ para listar todos os divisores de um número ou
+dizer que o número é primo caso não existam divisores. Ao final, verifique se o
+usuário deseja analisar outro número
+03) Faça um programa para montar a tabela de multiplicação de números de 1 a 10
+(ex.:1 x 1 = 1
+1 x 2 = 2, etc.)
+04) Faça um programa que soma X números gerados aleatoriamente no intervalo de
+1 a 10, onde X é informado pelo usuário (Pesquisem como gerar números
+aleatórios em C++)
+05) Programa que imprime a quantidade de números pares de 100 até 200,
+incluindo-os
